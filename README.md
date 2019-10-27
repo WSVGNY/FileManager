@@ -1,21 +1,14 @@
-# File Manager
+# Montreal Crime Visualizer
 Project Overview
 
-This project is a simple remote file manager akin to a Google Drive. The client is a command line interface that allows users to upload, download and manage files on the remote server.
+Hackatown 2019 project - Web application to vizualize crimes in Montreal.
 
-Upon successful connection to a server, the client allows users to:
-
-- Navigate to a folder - `cd <folder name>`
-- List the current folder's content `ls`
-- Create new folders `mkdir <folder name>`
-- Upload files to the server `upload <filename>`
--  Dowload files from the server `download <filename>`
-- Disconnect from the server `exit`
-	
-Built using Java with the Eclipse IDE.
+Built using React and .NET Core
 
 Authors
 
-Nicolas Raverdy
+Francis Granger
+
+Alexis Loiselle
 
 William Sevigny
